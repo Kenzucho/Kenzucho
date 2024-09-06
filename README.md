@@ -1,5 +1,6 @@
-GIVE ME ZENITH FROM TERRARIA
-<!---
-Kenzucho/Kenzucho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Kenzuh | Victor Augusto  
+📧 victor.lopes25@escola.pr.gov.br  
+🎓 Estudando na Alura  
+💻 Aprendendo JavaScript  
+🌑 Explorando o universo do código  
+👾 Sempre evoluindo!!!
